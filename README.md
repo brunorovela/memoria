@@ -14,3 +14,7 @@ Jogo desenvolvido em 2005 usando a biblioteca allegro 4.
 ## Tentativa errada
 
 ![Tentativa errada](https://github.com/user-attachments/assets/6018e5a0-47c6-45c9-a676-129f0e7a6ef5)
+
+## Fim de jogo
+
+![Fim de jogo](https://github.com/user-attachments/assets/4ab423b7-8df1-460d-8ba8-6ebb31526aca)
